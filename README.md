@@ -11,3 +11,5 @@ How to run the program from scratch provided you have a Minecraft set up:
 6. Start the Bukkit server by double clicking StartBukkit in AdventuresInMinecraft  
 7. Join the Bukkit server by using multiplayer direct connect with the server address "localhost"  
 8. Run the maze_minecraft_link.py file using Python 2.7 after entering the game  
+ 
+Uses the maze generator here: https://github.com/ignaty8/Python-Maze-Generator made by ignaty8
